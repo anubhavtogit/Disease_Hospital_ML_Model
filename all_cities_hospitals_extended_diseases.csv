@@ -1,0 +1,19 @@
+Hospital Name,COVID-19,Influenza,Viral Fever,Malaria,Dengue,Cough,Tuberculosis,MetroCity,RiverTown,HillVille,GreenBay,SunPort
+CityCare Hospital,2,0,2,3,2,2,0,0,120,150,100,80
+LifeLine Clinic,4,2,4,3,0,4,0,0,120,150,100,80
+Sunshine Health Center,0,0,0,3,1,0,1,0,120,150,100,80
+MetroCity General Hospital,3,0,4,4,3,1,1,0,120,150,100,80
+PulsePoint Medical,0,2,2,1,0,0,4,0,120,150,100,80
+CareWell Hospital,2,4,4,2,0,4,3,0,120,150,100,80
+HopeBridge Clinic,0,1,4,3,3,2,4,0,120,150,100,80
+GreenLeaf Health Center,0,2,0,4,1,2,2,0,120,150,100,80
+Nova Health Hospital,0,2,4,1,0,2,4,0,120,150,100,80
+Wellness Plus,1,3,1,1,0,3,4,0,120,150,100,80
+RiverHealth Clinic,2,2,0,2,0,1,2,120,0,90,130,100
+BlueCross Hospital,2,2,2,0,2,0,4,120,0,90,130,100
+HillCare Center,3,4,1,4,3,2,0,150,90,0,160,140
+MountainView Hospital,1,2,4,4,0,4,1,150,90,0,160,140
+GreenBay Medical,4,1,0,0,3,2,1,100,130,160,0,110
+Harbor Health,4,2,4,1,4,3,1,100,130,160,0,110
+SunPort Wellness,3,4,2,0,2,4,3,80,100,140,110,0
+Sunrise Health Center,2,0,2,1,4,2,2,80,100,140,110,0

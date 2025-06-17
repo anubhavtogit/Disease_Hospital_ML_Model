@@ -1,0 +1,201 @@
+temperature,cough,runny_nose,sore_throat,headache,chills,shortness_of_breath,night_sweating,loss_of_taste,loss_of_smell,label
+103.9,no,no,no,mild,0,mild,0,1,1,cough
+104.9,severe,mild,severe,mild,1,severe,0,1,1,cough
+98,no,no,severe,no,0,severe,1,0,0,cough
+102.1,no,mild,no,no,0,severe,0,1,1,cough
+100.5,severe,severe,mild,severe,0,severe,0,1,0,cough
+101.8,no,no,no,mild,0,no,0,0,0,cough
+98.7,mild,severe,no,mild,0,mild,0,1,1,cough
+102.4,no,severe,no,severe,0,no,1,1,0,cough
+102.4,severe,no,mild,mild,1,severe,0,0,1,cough
+104.6,no,no,no,no,0,mild,1,1,1,cough
+104.9,no,severe,no,severe,0,no,1,1,1,cough
+100.2,severe,severe,severe,severe,1,mild,0,0,1,cough
+102.4,severe,severe,severe,no,1,no,0,0,1,cough
+97.2,no,severe,mild,severe,1,severe,0,0,1,cough
+97.7,severe,severe,no,no,0,severe,1,1,0,cough
+104.5,no,mild,mild,no,0,mild,0,0,1,cough
+99,severe,no,no,mild,0,severe,1,0,0,cough
+97.9,severe,no,mild,no,1,mild,1,1,0,cough
+102.9,no,severe,mild,severe,1,mild,1,0,0,cough
+101.5,severe,mild,severe,no,1,no,0,0,1,cough
+104.5,mild,no,no,severe,1,severe,0,1,0,cough
+100.3,mild,mild,no,no,0,no,0,0,1,cough
+103.1,no,mild,no,severe,1,severe,0,0,1,cough
+101.9,severe,mild,no,severe,0,mild,0,1,0,cough
+101.3,mild,no,severe,mild,1,severe,0,1,1,cough
+97.8,no,mild,mild,mild,0,mild,1,1,0,Covid
+104.7,severe,severe,severe,severe,0,severe,0,0,0,Covid
+101.5,no,no,severe,no,1,no,1,1,0,Covid
+102.4,no,no,severe,mild,1,mild,0,1,1,Covid
+103.9,mild,mild,no,no,1,mild,1,0,1,Covid
+104,severe,severe,severe,mild,0,no,0,1,1,Covid
+100.6,mild,mild,no,severe,0,mild,0,1,0,Covid
+99.9,severe,mild,no,mild,1,mild,0,0,1,Covid
+97.7,mild,no,mild,no,1,mild,1,0,0,Covid
+104.5,no,no,severe,no,1,mild,0,0,1,Covid
+98.6,severe,mild,severe,severe,1,severe,1,0,0,Covid
+104.8,severe,severe,mild,mild,0,severe,0,1,1,Covid
+103,mild,no,mild,mild,0,severe,0,0,1,Covid
+103.1,no,severe,no,no,1,no,1,0,0,Covid
+99.6,severe,no,no,mild,0,no,1,1,1,Covid
+101.7,severe,mild,severe,no,1,severe,1,1,0,Covid
+98.9,no,severe,mild,no,1,no,0,0,1,Covid
+103.9,no,severe,no,severe,1,no,0,0,0,Covid
+101.7,no,no,severe,mild,1,severe,0,0,0,Covid
+104.1,severe,no,mild,no,0,no,1,0,1,Covid
+103.4,no,mild,mild,no,0,severe,1,1,0,Covid
+100,no,mild,no,no,0,mild,1,0,0,Covid
+99.7,severe,mild,no,severe,0,mild,1,0,0,Covid
+104.9,mild,no,severe,no,1,severe,0,0,0,Covid
+99.3,no,no,no,mild,0,severe,0,0,1,Covid
+102.6,no,severe,no,mild,1,no,0,0,0,Covid
+104,mild,severe,severe,mild,0,no,1,1,0,Dengue
+100.2,mild,severe,no,severe,0,no,0,1,0,Dengue
+103.3,mild,mild,no,no,0,severe,0,0,1,Dengue
+102,mild,mild,mild,mild,1,severe,0,0,0,Dengue
+101.7,no,severe,severe,mild,0,no,1,0,0,Dengue
+99.3,mild,no,mild,mild,1,mild,1,0,0,Dengue
+99.1,mild,severe,mild,mild,0,no,0,1,1,Dengue
+102.4,severe,severe,no,severe,0,mild,1,1,1,Dengue
+100.3,severe,mild,severe,no,0,no,1,0,0,Dengue
+99.1,no,no,severe,mild,0,mild,0,1,1,Dengue
+102.5,mild,mild,severe,severe,0,mild,1,0,0,Dengue
+100.2,severe,no,mild,mild,0,mild,1,0,1,Dengue
+101.4,severe,no,severe,mild,0,mild,0,0,0,Dengue
+98,no,severe,no,severe,0,severe,1,1,0,Dengue
+100.1,mild,mild,no,severe,1,no,0,1,1,Dengue
+101,no,severe,severe,mild,0,no,1,1,1,Dengue
+102.1,severe,mild,mild,mild,1,severe,0,0,0,Dengue
+102.2,no,no,mild,no,1,severe,0,0,1,Dengue
+103.8,no,no,mild,severe,1,no,0,0,0,Dengue
+99.5,severe,severe,mild,no,1,severe,1,0,0,Dengue
+100.8,mild,severe,severe,mild,0,severe,0,1,0,Dengue
+97.7,severe,severe,severe,mild,1,no,1,1,1,Dengue
+97.2,no,no,no,no,1,no,0,1,0,Dengue
+104.9,mild,severe,severe,severe,1,mild,1,0,0,Dengue
+97.7,no,no,no,no,1,mild,0,0,1,Dengue
+104,no,mild,no,no,1,no,1,0,1,Dengue
+98.9,no,mild,severe,severe,0,severe,0,0,0,Dengue
+100.9,no,mild,severe,mild,1,no,0,1,1,Dengue
+98.1,mild,no,severe,severe,0,severe,1,0,1,Dengue
+100.3,mild,severe,mild,mild,1,mild,1,0,0,Dengue
+98.7,mild,no,no,no,1,mild,1,0,1,Dengue
+102.9,mild,severe,no,severe,0,no,1,1,0,Dengue
+99.5,no,no,severe,severe,0,no,0,1,0,Dengue
+104.3,severe,no,no,no,1,no,1,0,1,Dengue
+104.2,no,severe,mild,severe,1,mild,1,1,0,Influenza
+97.5,mild,mild,mild,mild,1,severe,0,1,0,Influenza
+100.9,mild,severe,severe,mild,0,no,0,0,0,Influenza
+101.3,no,mild,mild,no,1,mild,0,1,0,Influenza
+99.3,no,mild,mild,mild,1,severe,0,1,1,Influenza
+98.5,mild,severe,severe,severe,1,severe,1,1,0,Influenza
+102.6,severe,severe,severe,no,1,no,1,1,1,Influenza
+100.1,no,severe,severe,no,0,severe,0,0,0,Influenza
+102.5,severe,mild,no,no,0,mild,1,1,1,Influenza
+99.4,mild,mild,no,severe,1,mild,1,0,0,Influenza
+98.2,no,severe,mild,mild,1,no,0,0,1,Influenza
+104.8,mild,mild,no,mild,0,no,1,0,0,Influenza
+103.7,mild,mild,severe,no,1,no,0,1,1,Influenza
+97.6,mild,no,mild,no,0,mild,0,1,0,Influenza
+99.4,mild,no,no,no,1,severe,1,0,1,Influenza
+104.3,severe,mild,no,no,1,no,1,0,0,Influenza
+102.6,no,no,no,severe,1,severe,0,0,1,Influenza
+97.4,no,mild,severe,severe,1,severe,1,1,0,Influenza
+104.9,mild,severe,no,severe,0,no,0,1,1,Influenza
+97.5,severe,no,mild,no,1,no,1,1,0,Influenza
+102.7,severe,mild,mild,no,1,no,0,0,1,Influenza
+102.9,mild,no,severe,severe,1,mild,1,1,1,Influenza
+101.2,no,mild,no,no,0,severe,0,1,1,Influenza
+103.8,no,no,severe,mild,0,no,0,0,0,Influenza
+98.5,mild,no,no,severe,1,mild,0,1,0,Influenza
+99,no,no,no,severe,1,no,0,0,1,Influenza
+99.9,no,severe,severe,mild,1,severe,0,0,0,Influenza
+98.9,mild,mild,no,mild,0,severe,1,1,1,Malaria
+100.8,severe,no,severe,no,0,mild,1,1,1,Malaria
+99.2,mild,no,severe,mild,1,no,0,0,1,Malaria
+97,no,mild,severe,mild,1,severe,0,1,0,Malaria
+100.1,severe,severe,no,mild,0,mild,0,0,0,Malaria
+99.7,no,severe,mild,severe,1,no,1,0,1,Malaria
+100.1,severe,no,mild,no,1,no,1,0,1,Malaria
+104.6,no,severe,no,severe,0,severe,1,1,0,Malaria
+104.2,mild,mild,mild,no,0,mild,1,1,0,Malaria
+101.8,mild,mild,mild,severe,1,no,0,1,1,Malaria
+100.4,severe,mild,mild,mild,0,mild,1,0,0,Malaria
+99.1,severe,severe,mild,severe,1,no,0,1,1,Malaria
+102.9,no,mild,no,no,0,no,0,0,0,Malaria
+97.8,severe,mild,severe,no,0,severe,0,0,1,Malaria
+98.7,severe,no,severe,severe,1,severe,1,0,0,Malaria
+98.4,no,no,mild,no,1,mild,1,0,0,Malaria
+97.7,no,severe,mild,mild,0,severe,0,1,1,Malaria
+97.7,mild,mild,no,no,1,severe,0,0,1,Malaria
+97.8,no,severe,severe,severe,0,mild,0,0,1,Malaria
+100.8,mild,severe,no,no,0,severe,0,1,1,Malaria
+97.1,no,no,mild,mild,0,no,0,1,0,Tuberculosis
+97.6,severe,mild,no,mild,0,mild,1,0,0,Tuberculosis
+99.9,severe,mild,no,no,0,severe,0,0,0,Tuberculosis
+103.4,severe,no,severe,mild,0,severe,0,1,0,Tuberculosis
+103.1,mild,severe,severe,mild,1,severe,0,0,0,Tuberculosis
+103.8,severe,mild,no,severe,0,no,0,1,1,Tuberculosis
+101.5,mild,no,no,no,0,no,0,0,0,Tuberculosis
+103.7,severe,severe,severe,mild,0,severe,1,0,0,Tuberculosis
+99.6,mild,severe,severe,no,0,no,1,0,1,Tuberculosis
+99.9,no,mild,mild,severe,1,mild,0,1,1,Tuberculosis
+98.2,mild,no,mild,severe,0,mild,1,0,0,Tuberculosis
+98.7,severe,severe,severe,mild,0,mild,0,0,0,Tuberculosis
+102.8,no,mild,no,no,1,mild,1,1,0,Tuberculosis
+101.8,no,mild,mild,severe,1,mild,0,1,1,Tuberculosis
+97.8,severe,mild,severe,no,1,no,0,1,0,Tuberculosis
+100.3,severe,mild,severe,no,1,severe,1,0,0,Tuberculosis
+99.1,mild,mild,severe,mild,1,no,0,0,1,Tuberculosis
+102.2,severe,no,severe,mild,1,no,0,1,0,Tuberculosis
+100.1,mild,no,severe,no,0,severe,1,1,0,Tuberculosis
+102.6,severe,no,severe,no,1,no,1,0,0,Tuberculosis
+102.7,severe,mild,mild,no,1,mild,1,1,0,Tuberculosis
+100.9,mild,severe,severe,severe,1,mild,0,1,1,Tuberculosis
+100.4,no,severe,severe,mild,0,mild,1,0,0,Tuberculosis
+101.2,no,mild,mild,severe,1,severe,0,0,1,Tuberculosis
+102.4,severe,no,no,mild,0,mild,0,1,1,Tuberculosis
+98.1,mild,mild,no,mild,0,mild,1,1,0,Tuberculosis
+103.6,mild,no,no,mild,1,no,0,1,0,Tuberculosis
+98,no,mild,mild,no,1,severe,1,0,1,Tuberculosis
+102.9,no,no,no,no,1,severe,0,0,0,Tuberculosis
+104,mild,no,mild,mild,0,severe,1,1,0,Tuberculosis
+98.1,severe,mild,severe,severe,1,no,0,1,1,Tuberculosis
+97.9,no,mild,mild,no,0,mild,1,0,0,Tuberculosis
+104,severe,severe,severe,no,0,no,1,0,1,Tuberculosis
+104.9,severe,mild,mild,no,0,mild,0,1,1,Tuberculosis
+100.8,severe,no,no,no,1,severe,1,0,0,Tuberculosis
+101.5,no,mild,mild,no,1,no,1,1,0,viral fever
+103.4,mild,mild,no,severe,1,severe,0,1,1,viral fever
+99.2,mild,severe,mild,no,0,no,0,1,0,viral fever
+104.1,mild,severe,severe,severe,1,no,1,0,0,viral fever
+97.4,mild,mild,severe,no,0,mild,0,0,1,viral fever
+102.6,severe,no,mild,mild,0,mild,1,1,1,viral fever
+100.4,mild,mild,mild,mild,1,mild,1,0,0,viral fever
+97.5,severe,mild,mild,no,1,severe,1,1,1,viral fever
+104.6,severe,mild,severe,severe,0,mild,1,1,1,viral fever
+103.9,no,no,severe,no,1,severe,0,1,1,viral fever
+99.7,severe,mild,no,severe,0,no,0,1,1,viral fever
+103.9,severe,mild,severe,severe,0,no,0,0,0,viral fever
+101.3,no,severe,no,mild,0,mild,0,0,0,viral fever
+104.1,no,severe,mild,severe,0,no,0,0,1,viral fever
+103.8,mild,no,mild,no,0,mild,0,1,0,viral fever
+102.2,mild,severe,mild,severe,0,no,0,0,1,viral fever
+102.5,no,mild,no,mild,1,mild,1,1,1,viral fever
+100,mild,severe,no,mild,1,mild,0,0,0,viral fever
+104.7,mild,mild,severe,no,1,severe,1,1,0,viral fever
+98.2,severe,severe,no,no,0,mild,1,1,0,viral fever
+100.9,no,severe,severe,mild,1,no,1,1,1,viral fever
+102.9,mild,severe,no,mild,1,mild,0,0,1,viral fever
+104.2,severe,mild,severe,mild,1,no,1,1,0,viral fever
+104.8,severe,no,no,severe,0,mild,0,0,1,viral fever
+98.1,no,mild,severe,mild,0,mild,0,1,1,viral fever
+104.5,mild,no,no,no,0,severe,0,1,0,viral fever
+97.5,severe,no,mild,no,0,no,1,0,1,viral fever
+102,no,mild,no,no,1,mild,1,0,1,viral fever
+101.7,no,no,no,mild,0,mild,0,0,0,viral fever
+101.2,no,no,mild,no,0,no,0,1,1,viral fever
+101.6,no,severe,no,severe,1,mild,0,1,0,viral fever
+100.5,no,severe,severe,severe,1,mild,1,0,1,viral fever
+100.2,no,no,mild,no,1,severe,0,0,0,viral fever
